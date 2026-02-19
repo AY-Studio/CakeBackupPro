@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+  <rect width="1200" height="680" fill="#f6f8fb"/>
+  <rect x="40" y="40" width="1120" height="600" rx="12" fill="#ffffff" stroke="#cfd6e4"/>
+  <text x="70" y="95" font-family="Arial, sans-serif" font-size="32" fill="#1a2b49">Backblaze B2 - Create Bucket (Placeholder)</text>
+  <rect x="70" y="130" width="1060" height="70" rx="8" fill="#f0f4ff" stroke="#cfd6e4"/>
+  <text x="90" y="174" font-family="Arial, sans-serif" font-size="24" fill="#1a2b49">Buckets &gt; Create a Bucket</text>
+
+  <rect x="70" y="240" width="760" height="70" rx="8" fill="#ffffff" stroke="#cfd6e4"/>
+  <text x="90" y="284" font-family="Arial, sans-serif" font-size="22" fill="#4a5872">Bucket Name: my-company-backups</text>
+
+  <rect x="70" y="330" width="760" height="70" rx="8" fill="#ffffff" stroke="#cfd6e4"/>
+  <text x="90" y="374" font-family="Arial, sans-serif" font-size="22" fill="#4a5872">Privacy: Private</text>
+
+  <rect x="70" y="430" width="1060" height="120" rx="8" fill="#fff8e8" stroke="#f2d9a6"/>
+  <text x="90" y="475" font-family="Arial, sans-serif" font-size="24" fill="#6e4d00">Use this in plugin Backup Path:</text>
+  <text x="90" y="510" font-family="Arial, sans-serif" font-size="22" fill="#6e4d00">my-company-backups/warranty-live</text>
+
+  <circle cx="1020" cy="165" r="20" fill="#1e5eff"/><text x="1014" y="172" font-family="Arial, sans-serif" font-size="16" fill="#fff">1</text>
+  <circle cx="810" cy="265" r="20" fill="#1e5eff"/><text x="804" y="272" font-family="Arial, sans-serif" font-size="16" fill="#fff">2</text>
+  <circle cx="810" cy="355" r="20" fill="#1e5eff"/><text x="804" y="362" font-family="Arial, sans-serif" font-size="16" fill="#fff">3</text>
+  <circle cx="1110" cy="475" r="20" fill="#1e5eff"/><text x="1104" y="482" font-family="Arial, sans-serif" font-size="16" fill="#fff">4</text>
+</svg>
+

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+  <rect width="1200" height="680" fill="#f6f8fb"/>
+  <rect x="40" y="40" width="1120" height="600" rx="12" fill="#ffffff" stroke="#cfd6e4"/>
+  <text x="70" y="95" font-family="Arial, sans-serif" font-size="32" fill="#1a2b49">Backblaze B2 - Add Application Key (Placeholder)</text>
+  <rect x="70" y="130" width="1060" height="70" rx="8" fill="#f0f4ff" stroke="#cfd6e4"/>
+  <text x="90" y="174" font-family="Arial, sans-serif" font-size="24" fill="#1a2b49">App Keys &gt; Add a New Application Key</text>
+
+  <rect x="70" y="230" width="500" height="70" rx="8" fill="#ffffff" stroke="#cfd6e4"/>
+  <text x="90" y="275" font-family="Arial, sans-serif" font-size="22" fill="#4a5872">Key Name: cake-backup-pro</text>
+
+  <rect x="70" y="320" width="500" height="70" rx="8" fill="#ffffff" stroke="#cfd6e4"/>
+  <text x="90" y="365" font-family="Arial, sans-serif" font-size="22" fill="#4a5872">Bucket Access: my-company-backups</text>
+
+  <rect x="600" y="230" width="530" height="220" rx="8" fill="#ffffff" stroke="#cfd6e4"/>
+  <text x="620" y="270" font-family="Arial, sans-serif" font-size="20" fill="#4a5872">Capabilities</text>
+  <text x="620" y="305" font-family="Arial, sans-serif" font-size="19" fill="#4a5872">[x] list buckets</text>
+  <text x="620" y="335" font-family="Arial, sans-serif" font-size="19" fill="#4a5872">[x] list files</text>
+  <text x="620" y="365" font-family="Arial, sans-serif" font-size="19" fill="#4a5872">[x] read files</text>
+  <text x="620" y="395" font-family="Arial, sans-serif" font-size="19" fill="#4a5872">[x] write files</text>
+  <text x="620" y="425" font-family="Arial, sans-serif" font-size="19" fill="#4a5872">[x] delete files</text>
+
+  <rect x="70" y="490" width="1060" height="120" rx="8" fill="#fff8e8" stroke="#f2d9a6"/>
+  <text x="90" y="535" font-family="Arial, sans-serif" font-size="24" fill="#6e4d00">Save both values shown after creation:</text>
+  <text x="90" y="570" font-family="Arial, sans-serif" font-size="22" fill="#6e4d00">- keyID  - applicationKey (shown once)</text>
+
+  <circle cx="1030" cy="165" r="20" fill="#1e5eff"/><text x="1024" y="172" font-family="Arial, sans-serif" font-size="16" fill="#fff">1</text>
+  <circle cx="550" cy="265" r="20" fill="#1e5eff"/><text x="544" y="272" font-family="Arial, sans-serif" font-size="16" fill="#fff">2</text>
+  <circle cx="550" cy="355" r="20" fill="#1e5eff"/><text x="544" y="362" font-family="Arial, sans-serif" font-size="16" fill="#fff">3</text>
+  <circle cx="1110" cy="265" r="20" fill="#1e5eff"/><text x="1104" y="272" font-family="Arial, sans-serif" font-size="16" fill="#fff">4</text>
+  <circle cx="1110" cy="535" r="20" fill="#1e5eff"/><text x="1104" y="542" font-family="Arial, sans-serif" font-size="16" fill="#fff">5</text>
+</svg>
+
