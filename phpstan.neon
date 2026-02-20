@@ -1,5 +1,5 @@
 includes:
-    - vendor/cakephp/cakephp/phpstan.neon.dist
+    - ../../vendor/cakephp/cakephp/phpstan.neon.dist
 
 parameters:
     level: 6
@@ -9,13 +9,6 @@ parameters:
         - src/
         - config/
         - tests/
-        - plugins/CakeBackupPro/src/
-        - plugins/CakeBackupPro/config/
-        - plugins/CakeBackupPro/tests/
     excludePaths:
-        - vendor/*
-        - tmp/*
-        - logs/*
-        - webroot/*
-        - plugins/CakeBackupPro/docs/*
-        - plugins/CakeBackupPro/scripts/*
+        - docs/*
+        - scripts/*

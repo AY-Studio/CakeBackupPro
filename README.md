@@ -8,6 +8,13 @@ CakePHP backup/restore plugin for Backblaze B2 with:
 - safe file rollover (`old-*`) before replacement
 - post-restore health checks
 
+## Version Map
+
+| Branch | CakePHP | PHP | Plugin Status |
+| --- | --- | --- | --- |
+| `main` | `^5.0` | `>=8.1` | Active |
+| `1.x` | `^4.5` | `>=8.1` | Legacy/Maintenance |
+
 ## 1. Quick Install
 
 ```bash

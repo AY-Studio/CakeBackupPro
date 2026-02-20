@@ -1,5 +1,12 @@
 # CakeBackupPro Release Playbook
 
+## Version Map
+
+| Branch | CakePHP | PHP | Plugin Status |
+| --- | --- | --- | --- |
+| `main` | `^5.0` | `>=8.1` | Active |
+| `1.x` | `^4.5` | `>=8.1` | Legacy/Maintenance |
+
 ## 1. Prepare standalone repository
 
 Create a dedicated repository containing only plugin files:
@@ -63,4 +70,3 @@ Open `/admin/backups` and run:
 2. DB backup
 3. Full backup
 4. Restore from latest set in a non-production environment
-
