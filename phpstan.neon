@@ -1,0 +1,21 @@
+includes:
+    - vendor/cakephp/cakephp/phpstan.neon.dist
+
+parameters:
+    level: 6
+    bootstrapFiles:
+        - tests/bootstrap.php
+    paths:
+        - src/
+        - config/
+        - tests/
+        - plugins/CakeBackupPro/src/
+        - plugins/CakeBackupPro/config/
+        - plugins/CakeBackupPro/tests/
+    excludePaths:
+        - vendor/*
+        - tmp/*
+        - logs/*
+        - webroot/*
+        - plugins/CakeBackupPro/docs/*
+        - plugins/CakeBackupPro/scripts/*
